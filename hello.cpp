@@ -3,4 +3,5 @@
 int main() {
     printf("Hello");
     printf("Duong");
+    print("namngu");
 }
